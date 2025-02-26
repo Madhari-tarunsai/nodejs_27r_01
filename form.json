@@ -1,0 +1,14 @@
+[
+  { "id": 1, "name": "tarunsai", "place": "hyderabad" },
+  { "id": 2, "name": "sai", "place": "balanager" },
+  { "id": 3, "name": "teja", "place": "chennai" },
+  { "id": 4, "name": "kiran", "place": "bubai" },
+  { "id": 5, "name": "kiran", "place": "bubai" },
+  {
+    "id": 102,
+    "name": "iphone",
+    "price": 499.99,
+    "inStock": false,
+    "category": "Electronics"
+  }
+]
