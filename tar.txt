@@ -1,0 +1,15 @@
+{
+    "id": 102,
+    "name": "iphone",
+    "price": 499.99,
+    "inStock": false,
+    "category": "Electronics"
+    
+  }{
+    "id": 102,
+    "name": "iphone",
+    "price": 499.99,
+    "inStock": false,
+    "category": "Electronics"
+    
+  }
